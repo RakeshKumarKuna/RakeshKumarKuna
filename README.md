@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RakeshKumarKuna
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning SpringBoot&microServices
+- Java Full-stack developer
+- 👀 interested in Web development
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to Join in a full-time job
 - 📫 Contact -- email:kunarakeshkumar@gmail.com
 
