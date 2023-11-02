@@ -11,7 +11,7 @@
    <li>📫 How to reach me <a href="mailto:kunarakekshkumar.com"
          style="text-decoration: none;">kunarakekshkumar@gmail.com</a></li>
 </ul>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Skills:</h3>
 <p align="left">
    <a title="Bootstrap"  rel="noreferrer"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
