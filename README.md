@@ -1,12 +1,12 @@
 <h5 align="center"><img src="https://readme-typing-svg.demolab.com?font=bold&weight=700&size=30&pause=1000&color=131DF7&background=1FFF3300&center=true&random=false&width=435&lines=Rakesh+Kumar+Kuna"></h5>
 <h3 align="center">An aspiring Java developer with a strong passion for coding and a thirst for knowledge</h3>
 <ul>
-   <li>🔭 I’m currently working on <a href="https://github.com/RakeshKumarKuna/JavaProject">WareHouse
-         Project</a> Using SpringBoot.</li>
+   <li>🔭 I’m currently working on <a href="https://github.com/RakeshKumarKuna/medilab-core-services">Medilab
+         Project</a> Using SpringBoot(Microservices).</li>
 
-   <li>🌱 I’m currently learning Angular and DataStuctures.</li>
 
-   <li>💬 Ask me about Java,SpringBoot,Hibetnate,JavaScript.</li>
+
+   <li>💬 Ask me about Java, SpringBoot, Hibernate, JavaScript, Angular, and React.</li>
 
    <li>📫 How to reach me <a href="mailto:kunarakekshkumar.com"
          style="text-decoration: none;">kunarakekshkumar@gmail.com</a></li>
