@@ -6,7 +6,7 @@
 
 
 
-   <li>💬 Ask me about Java, SpringBoot, Hibernate, JavaScript, Angular, and React.</li>
+   <li>💬 Ask me about Java, SpringBoot, Hibernate, JavaScript, Nodejs, Angular, and React.</li>
 
    <li>📫 How to reach me <a href="mailto:kunarakekshkumar.com"
          style="text-decoration: none;">kunarakekshkumar@gmail.com</a></li>
